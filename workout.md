@@ -1,135 +1,110 @@
-# Metabolic Restoration and Aesthetic Recomposition Architecture
-**Status:** Active Protocol
-**Subject:** 21M | 188cm | 105kg | Est. BF: 33%
-**Objective:** Class I Obesity $\rightarrow$ Lean Athletic Phenotype (14% BF)
-**Environment:** High-Performance Academic / Dormitory / Induction-Only
+# 🚀 PROJECT: RECOMP (The 2026 Protocol)
+
+> **Current Status:** 🔴 CLASSIFIED FAT LOSS | 🟢 MUSCLE ACTIVATION
+> **Operator:** 21M | 6'2" | 105kg
+> **Mission:** Burn the fat, keep the muscle, crush the code.
 
 ---
 
-## 1. Executive Summary
-The defining objective is a radical physiological transformation, shifting the organism from a state of "Metabolic Obesity" (High BMI, Low Muscle Density) to a high-efficiency phenotype. The protocol leverages **Myonuclear Permanence** (muscle memory) to execute simultaneous adipose oxidation and myofibrillar hypertrophy. 
+## ⏰ THE DAILY GRIND (Chronobiology)
+*Strict timing creates freedom. We run on military precision.*
 
-**Core Constraints:**
-1.  **Academic Load:** 10+ hours cognitive demand/day.
-2.  **Logistics:** Dormitory living, Induction cooking, Vegetarian Tuesdays.
-3.  **Philosophy:** Utilitarian. Efficacy > Sensory gratification.
-
----
-
-## 2. The Mathematical Baseline
-
-### 2.1 Energy Balance Equations
-Using the **Mifflin-St Jeor Equation** for the subject's anthropometry:
-
-$$BMR = (10 \times 105) + (6.25 \times 188) - (5 \times 21) + 5 \approx 2,125 \text{ kcal/day}$$
-
-**Total Daily Energy Expenditure (TDEE):**
-Applying a sedentary academic baseline with superimposed anaerobic training:
-$$TDEE \approx 2,650 \text{ kcal}$$
-
-### 2.2 The Deficit Model
-To achieve ~0.7kg to 1.0kg of pure fat loss per week while supporting neurogenesis and muscle repair:
-* **Daily Target Intake:** **2,200 kcal**
-* **Calculated Deficit:** **-450 to -500 kcal**
-
-### 2.3 Macronutrient Partitioning
-* **Protein (Nitrogen Anchor):** 190g (High intake required to prevent catabolism in deficit).
-* **Fats (Hormonal Floor):** 75g (Essential for testosterone).
-* **Carbohydrates (Glycolytic Fuel):** ~190g (Variable based on activity).
-
----
-
-## 3. Chronobiological Schedule (The 04:30 AM Protocol)
-*Sleep hygiene is the rate-limiting step for fat loss and memory consolidation.*
-
-| Time Window | Activity Phase | Physiological Objective |
+| 🕒 TIME | 💀 ACTIVITY | 📝 DETAILS |
 | :--- | :--- | :--- |
-| **04:30** | **Wake Up** | Cortisol awakening response. Hydrate immediately (1L Water). |
-| **05:00** | **Meal 1 + Coffee** | Break fast. Caffeine for appetite suppression and alertness. |
-| **05:30 - 09:30** | **Deep Work Block 1** | Primary cognitive load. (No distractions). |
-| **09:30 - 10:30** | **Gym / Training** | Mechanical tension stimulus. |
-| **11:00** | **Meal 2 (College)** | Post-workout nutrient partitioning. |
-| **11:30 - 16:30** | **College / Lectures** | Secondary cognitive load. |
-| **16:30** | **Meal 3** | Glucose stabilization. |
-| **17:00 - 20:00** | **Deep Work Block 2** | Review and active recall. |
-| **20:00** | **Meal 4 (Dinner)** | Satiety and recovery. |
-| **21:00** | **Sleep Onset** | **CRITICAL.** Growth Hormone secretion peaks during SWS (Slow Wave Sleep). |
+| **04:30** | **WAKE UP** | 🟢 **Drink 1L Water** immediately. No snoozing. You are a machine. |
+| **05:00** | **FUEL + CAFFEINE** | 🍳 **Meal 1** + ☕ **Black Coffee**. (The "Brain Nuke"). |
+| **05:30** | **DEEP WORK (I)** | 💻 Codeforces / LeetCode / Hardest Subject. Zero phone. |
+| **09:30** | **GYM TIME** | 🏋️‍♂️ Lift heavy things. See "The Iron" section below. |
+| **11:00** | **REFUEL (College)** | 🍱 **Meal 2**. Eat between classes. |
+| **11:30** | **COLLEGE GRIND** | 🎓 Lectures & Labs. Keep moving. |
+| **16:30** | **SNACK** | 🍌 **Meal 3**. Pre-study glucose spike. |
+| **17:00** | **DEEP WORK (II)** | 🧠 Hackathon projects / Dev / Reviews. |
+| **20:00** | **DINNER** | 🍲 **Meal 4**. The big recovery meal. |
+| **21:00** | **SHUTDOWN** | 🛌 Sleep. Growth Hormone requires deep sleep. |
 
 ---
 
-## 4. The Nutritional Substrate Algorithm
+## 🍽️ THE FUEL (Induction-Only Logistics)
+*Food is not entertainment. Food is code for your body.*
 
-### 4.1 Daily Fueling Protocol (Induction & Dorm Optimized)
-*Total Prep Time: < 30 Minutes/Day*
+### 🟢 MONDAY / WEDNESDAY / THURSDAY / FRIDAY / SAT / SUN
+* **Meal 1 (05:00):** 3 Boiled Eggs + 2 Slices Brown Bread (or Oats).
+* **Meal 2 (11:00):** **"Soya Grenades"** (50g Soya Chunks boiled & fried with rice).
+* **Meal 3 (16:30):** 1 Scoop Whey + 1 Banana + 250ml Milk.
+* **Meal 4 (20:00):** **"The Chicken Bucket"**. 250g Chicken Breast (cubed) + Rice + Spices. Cook it all in one pot.
 
-**Meal 1: The Primer (05:00 AM)**
-* **Component:** 3 Whole Eggs (Boiled/Fried) + 2 Slices Brown Bread (or 50g Oats).
-* **Beverage:** 400ml Black Coffee (No Sugar).
-* **Stats:** ~450 kcal | 22g Protein.
-
-**Meal 2: The Portable Anabolic (11:00 AM - College)**
-* *Prep Strategy: Cook in bulk at night or morning.*
-* **Component:** **Soya Chunk Fried Rice**.
-    * 50g Soya Chunks (Boiled & Squeezed) sautéed with spices + 150g Cooked Rice.
-    * *Alternative:* 2 Scoops Whey Protein in water (if cooking fails).
-* **Stats:** ~450 kcal | 28g Protein.
-
-**Meal 3: The Bridge (16:30 PM)**
-* **Component:** 250ml Milk + 1 Scoop Whey Protein + 1 Banana.
-* **Stats:** ~350 kcal | 32g Protein.
-
-**Meal 4: The Recovery Compound (20:00 PM)**
-* **Component:** **Chicken/Soya Stew**.
-    * 250g Chicken Breast OR 100g Paneer/Soya.
-    * Cooked in Induction Pot with veggies (optional) and 1 tbsp Ghee/Oil.
-    * Serve with Rice or Rotis.
-* **Stats:** ~650-700 kcal | 60g Protein.
-
-**Total Protein Estimate:** ~142g from food + residual trace proteins = ~150-160g.
-*Note: If recovery feels slow, increase Whey intake to 2 scoops.*
-
-### 4.2 The Tuesday "Vegetarian" Override
-*Problem: Chicken is removed (-60g Protein).*
-*Solution: The Soya & Whey Shift.*
-
-* **Meal 1:** Same (Eggs allowed? If not, replace with Whey + Milk).
-* **Meal 2:** Soya Chunks (mandatory).
-* **Meal 3:** Double Scoop Whey Protein.
-* **Meal 4:** 200g Paneer or 100g Soya Chunks.
+### 🔴 TUESDAY (The Vegetarian Patch)
+* **Meal 1:** 1 Scoop Whey + Milk + Oats.
+* **Meal 2:** Soya Chunks Rice.
+* **Meal 3:** **DOUBLE SCOOP** Whey Protein. (Compulsory).
+* **Meal 4:** 200g Paneer OR More Soya Chunks + Rice.
 
 ---
 
-## 5. Training Architecture (Hypertrophy/Recomp)
-*Focus: Low Volume, High Intensity. Progressive Overload.*
+## 🔥 THE CARDIO (The Fat Incinerator)
+*We do not "jog". We either walk to burn fat or run to build lungs.*
 
-**Frequency:** 4 Days On, 3 Days Off (e.g., Mon/Tue/Thu/Fri).
-**Splits:** Upper / Lower.
+### 1. The Daily "Non-Negotiable" (Every Single Day)
+* **Activity:** Walking.
+* **Target:** 10,000 Steps minimum.
+* **Why:** This burns pure fat without making you hungry.
+* **When:** Walk to class, pace while thinking about code, walk while on calls.
 
-**A: Upper Body Focus**
-1.  **Overhead Press (Dumbbell or Barbell):** 3 sets x 6-8 reps (Focus: V-Taper).
-2.  **Pull-Ups (or Lat Pulldowns):** 3 sets x Failure.
-3.  **Incline Chest Press:** 3 sets x 8-10 reps.
-4.  **Dumbbell Rows:** 3 sets x 10 reps.
-
-**B: Lower Body Focus**
-1.  **Squats (Goblet or Barbell):** 3 sets x 6-8 reps.
-2.  **Romanian Deadlifts:** 3 sets x 8-10 reps.
-3.  **Leg Press:** 3 sets x 12 reps.
-
-*Cardio:* 10k Steps daily (Non-negotiable). Walking is the primary fat-oxidation engine that does not spike hunger.
+### 2. The "Zone 2" Outdoor Run (Wednesday & Sunday Only)
+* **Activity:** Slow, steady outdoor running.
+* **Vibe:** You should be able to hold a conversation, but just barely.
+* **Speed:** Slow. Like 7-8 km/hr. Don't sprint.
+* **Duration:** 30-40 Minutes.
+* **Audio:** Listen to a podcast or lo-fi beats. No hype music. Keep heart rate steady.
 
 ---
 
-## 6. Logistics & Shopping List (Weekly)
+## 🏋️‍♂️ THE IRON (The 4-Day Split)
+*Focus: Intensity over duration. Get in, destroy the fibers, get out.*
 
-**The Induction Survival Kit:**
-1.  **Whey Protein Isolate:** Buy 2kg tubs. (Essential for dorm life).
-2.  **Eggs:** Buy 2-3 crates at a time.
-3.  **Soya Chunks:** Ultra-cheap, shelf-stable protein.
-4.  **Oats & Rice:** Bulk carb sources.
-5.  **Multivitamin & Fish Oil:** To cover micronutrient gaps in a repetitive diet.
+### 📅 MONDAY: UPPER BODY (Push Focus)
+* **Flat Dumbbell/Barbell Press:** 3 sets x 8-10 reps (Heavy).
+* **Overhead Press (Standing):** 3 sets x 8-12 reps (Builds those shoulders).
+* **Lat Pulldowns (or Pullups):** 3 sets x Failure.
+* **Tricep Pushdowns:** 3 sets x 12-15 reps.
+* **Lateral Raises:** 3 sets x 15 reps (Spam these for width).
 
-**Execution Notes:**
-* **The "Fog" Warning:** For the first 7 days, cognitive performance may dip slightly as the body switches fuel sources. Caffeine is your bridge here.
-* **Water:** 4 Liters minimum. High protein intake requires high hydration for kidney filtration.
+### 📅 TUESDAY: LOWER BODY (Squat Focus)
+* **Goblet Squats (or Barbell):** 3 sets x 8-10 reps.
+* **Leg Press:** 3 sets x 12-15 reps (Go deep).
+* **Hamstring Curls:** 3 sets x 12 reps.
+* **Calf Raises:** 3 sets x 20 reps (Don't skip these).
 
+### 📅 WEDNESDAY: ACTIVE RECOVERY
+* **Gym:** OFF.
+* **Cardio:** 🏃‍♂️ **OUTDOOR RUN** (30 mins, steady pace).
+* **Steps:** Hit your 10k.
+
+### 📅 THURSDAY: UPPER BODY (Pull Focus)
+* **Incline Dumbbell Press:** 3 sets x 8-10 reps (Upper chest).
+* **Seated Cable Rows:** 3 sets x 10-12 reps.
+* **Dumbbell Shoulder Press:** 3 sets x 10 reps.
+* **Bicep Curls (Barbell/Dumbbell):** 3 sets x 12 reps.
+* **Face Pulls:** 3 sets x 15 reps (Good for posture).
+
+### 📅 FRIDAY: LOWER BODY (Hinge Focus)
+* **Romanian Deadlifts (Dumbbells):** 3 sets x 10-12 reps (Feel the stretch).
+* **Walking Lunges:** 3 sets x 10 steps each leg.
+* **Leg Extensions:** 3 sets x 15 reps (Burnout).
+* **Plank:** 3 sets x 1 minute (Core strength).
+
+### 📅 SATURDAY/SUNDAY: RECOVERY
+* **Gym:** OFF.
+* **Cardio:** Sunday Morning Run (Optional but recommended).
+* **Focus:** Meal prep for the week. Sleep extra.
+
+---
+
+## ⚠️ RULES OF ENGAGEMENT
+
+1.  **NO EGO LIFTING:** Control the weight. If you swing it, you didn't lift it.
+2.  **THE PROTEIN RULE:** If you miss a meal, you drink a shake. Never miss protein.
+3.  **THE SLEEP LAW:** If you are awake at 22:00, you are failing the mission.
+4.  **CONSISTENCY > INTENSITY:** A bad workout is better than no workout.
+
+**EXECUTE.** 👊
